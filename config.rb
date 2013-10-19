@@ -10,8 +10,9 @@ set :css_dir,     'stylesheets'
 set :js_dir,      'javascripts'
 set :images_dir,  'images'
 
-# If need additional libraries or styles
-sprockets.append_path   "libs/javascripts"
+# If you need additional libraries or styles
+# just drop in libs/javascripts and insert require in all.js.coffee
+#sprockets.append_path  "libs/javascripts"
 #sprockets.append_path  "libs/stylesheets"
 #sprockets.append_path  "libs/fonts"
 #sprockets.append_path  "libs/images"
