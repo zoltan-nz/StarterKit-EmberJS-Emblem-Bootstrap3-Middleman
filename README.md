@@ -3,20 +3,27 @@ Middleman, EmberJS, Emblem, Slim, Sass, CoffeeScript, Bootstrap 3
 
 Starter Kit in Middleman with the latest EmberJS, Emblem, Slim, Sass and Coffee Script. Bootstrap 3 implemented as well.
 
-1. Download zip version.
-2. Run bundle update:
+###Start your new EmberJS project with Emblem in Middleman:
 
-    bundle update
+ 1. Download zip version and extract in your empty project folder.
+ 2. Run bundle update:
 
-3. Launch middleman server
 
-    middleman server
+        bundle update
 
-4. Enjoy bootstrap 3 style, and code with coffee script, emblem, slim and sass
 
-- EmberJS: http://www.emberjs.com
+ 3. Launch middleman server
 
-- Emblem template: http://www.emblemjs.com
 
-- Middleman: http://middlemanapp.com/
+        middleman server
 
+
+ 4. Enjoy bootstrap 3 style, and code with coffee script, emblem, slim and sass
+
+###More info:
+
+ - EmberJS: http://www.emberjs.com
+
+ - Emblem template: http://www.emblemjs.com
+
+ - Middleman: http://middlemanapp.com/
