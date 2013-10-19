@@ -1,0 +1,2 @@
+ul= each item in model
+  li= item
