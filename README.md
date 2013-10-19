@@ -14,7 +14,9 @@ Starter Kit in Middleman with the latest EmberJS, Emblem, Slim, Sass and Coffee 
 
 4. Enjoy bootstrap 3 style, and code with coffee script, emblem, slim and sass
 
-EmberJS: http://www.emberjs.com
-Emblem template: http://www.emblemjs.com
-Middleman: http://middlemanapp.com/
+- EmberJS: http://www.emberjs.com
+
+- Emblem template: http://www.emblemjs.com
+
+- Middleman: http://middlemanapp.com/
 
