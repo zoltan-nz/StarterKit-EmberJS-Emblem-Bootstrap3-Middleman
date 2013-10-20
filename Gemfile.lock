@@ -39,7 +39,7 @@ GEM
     em-websocket (0.5.0)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.5.3)
-    ember-data-source (0.14)
+    ember-data-source (1.0.0.beta.3)
       ember-source
     ember-middleman (0.0.3)
       barber
@@ -140,7 +140,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass!
   coffee-script
-  ember-data-source
+  ember-data-source (~> 1.0.0.beta.3)
   ember-middleman
   ember-source
   emblem-source
