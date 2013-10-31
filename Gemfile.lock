@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/thomas-mcdonald/bootstrap-sass.git
-  revision: 0e88056ac5d58fb0bbd23d3fe929eac01712d964
+  revision: 9c6c07f74ff515cf38380b014cfede14a4f0eae4
   branch: 3
   specs:
     bootstrap-sass (3.0.0.0)
@@ -55,7 +55,7 @@ GEM
     eventmachine (1.0.3)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    ffi (1.9.0)
+    ffi (1.9.3)
     fssm (0.2.10)
     haml (4.0.3)
       tilt
@@ -114,7 +114,7 @@ GEM
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
     sass (3.2.12)
-    slim (2.0.1)
+    slim (2.0.2)
       temple (~> 0.6.6)
       tilt (>= 1.3.3, < 2.1)
     sprockets (2.10.0)
@@ -142,7 +142,7 @@ DEPENDENCIES
   coffee-script
   ember-data-source (~> 1.0.0.beta.3)
   ember-middleman
-  ember-source (~> 1.1.0)
+  ember-source (~> 1.1.2)
   emblem-source
   handlebars-source
   jquery-source
