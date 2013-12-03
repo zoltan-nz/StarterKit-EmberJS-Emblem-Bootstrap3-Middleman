@@ -14,11 +14,11 @@ gem 'emblem-source'
 
 # Assets
 gem 'jquery-source'
-gem 'bootstrap-sass',       github: 'thomas-mcdonald/bootstrap-sass', branch: '3', require: false
+gem 'bootstrap-sass',       '~> 3.0.2.1'
 gem 'coffee-script'
 
 # Ember
 gem 'ember-middleman'
 gem 'handlebars-source'
-gem 'ember-source',         '~> 1.1.2'
+gem 'ember-source',         '~> 1.2.0.1'
 gem 'ember-data-source',    '~> 1.0.0.beta.3'
