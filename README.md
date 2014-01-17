@@ -28,3 +28,6 @@ Starter Kit in Middleman with the latest EmberJS, Emblem, Slim, Sass and Coffee 
 
  - Middleman: http://middlemanapp.com/
 
+###Todo:
+
+- Update everything to the latest version...
