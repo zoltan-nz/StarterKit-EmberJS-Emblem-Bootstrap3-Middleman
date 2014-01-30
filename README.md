@@ -28,6 +28,6 @@ Starter Kit in Middleman with the latest EmberJS, Emblem, Slim, Sass and Coffee 
 
  - Middleman: http://middlemanapp.com/
 
+###Todo:
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/starterkit-emberjs-emblem-bootstrap3-middleman/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+- Update everything to the latest version...
