@@ -20,5 +20,5 @@ gem 'coffee-script',        '~> 2.2.0'
 # Ember
 gem 'ember-middleman'
 gem 'handlebars-source',    '~> 1.3.0'
-gem 'ember-source',         '~> 1.4.0'
-gem 'ember-data-source',    '~> 1.0.0.beta.6'
+gem 'ember-source',         '~> 1.5.1.1'
+gem 'ember-data-source',    '~> 1.0.0.beta.7'
